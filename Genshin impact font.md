@@ -1,6 +1,6 @@
 # Magisk
 
-This module configures fonts that you add for system-wise usage.
+This module gives you Genshin impact fonts
 
 ## Usage
 
